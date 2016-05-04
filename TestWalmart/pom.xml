@@ -37,7 +37,7 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <suiteXmlFile>target/test-classes/${walmartAppRunner}</suiteXmlFile>
+                        <suiteXmlFile>target/test-classes/${WalmartAppRunner}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>

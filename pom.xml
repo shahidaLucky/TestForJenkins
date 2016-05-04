@@ -51,7 +51,7 @@
             </modules>
         </profile>
         <profile>
-            <id>walmart-app</id>
+            <id>walmart-appRunner</id>
             <modules>
                 <module>Generic</module>
                 <module>TestWalmart</module>
