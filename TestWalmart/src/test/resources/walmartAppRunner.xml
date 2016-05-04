@@ -4,7 +4,7 @@
 <suite name="Walmart e-commerce " parallel="tests">
 
 
-    <parameter name="useCloudEnv" value="true"/>
+    <parameter name="useCloudEnv" value="false"/>
     <parameter name="userName" value="shahidaLucky"/>
     <parameter name="key" value="6ede764c-dffb-407b-902d-9d065edcf761"/>
     <parameter name="os" value="Windows 10"/>
