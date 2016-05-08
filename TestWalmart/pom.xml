@@ -45,7 +45,7 @@
     </build>
 
     <properties>
-        <WalmartAppRunner>WalmartTestRunner.xml</WalmartAppRunner>
+        <WalmartAppRunner>walmartTestRunner.xml</WalmartAppRunner>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
